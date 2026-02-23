@@ -2,15 +2,15 @@
 
 :root {
   color-scheme: light;
-  --bg: #f7f2ea;
-  --ink: #111218;
-  --muted: #4b4f57;
+  --bg: #f2f5fb;
+  --ink: #0b0f1a;
+  --muted: #4b5563;
   --card: #ffffff;
-  --accent: #ff3d2e;
-  --accent-2: #f6b233;
-  --accent-3: #1b7fff;
-  --accent-4: #00b1a0;
-  --shadow: 0 24px 60px rgba(17, 18, 24, 0.12);
+  --accent: #ff4d1c;
+  --accent-2: #facc15;
+  --accent-3: #2563eb;
+  --accent-4: #14b8a6;
+  --shadow: 0 24px 60px rgba(11, 15, 26, 0.14);
   --radius-lg: 28px;
   --radius-md: 18px;
   --radius-sm: 12px;
@@ -51,13 +51,13 @@ body::after {
 body::before {
   top: -180px;
   right: -150px;
-  background: radial-gradient(circle at top, rgba(255, 61, 46, 0.18), transparent 65%);
+  background: radial-gradient(circle at top, rgba(255, 77, 28, 0.2), transparent 65%);
 }
 
 body::after {
   bottom: -200px;
   left: -160px;
-  background: radial-gradient(circle at top, rgba(27, 127, 255, 0.18), transparent 65%);
+  background: radial-gradient(circle at top, rgba(37, 99, 235, 0.2), transparent 65%);
 }
 
 img,
